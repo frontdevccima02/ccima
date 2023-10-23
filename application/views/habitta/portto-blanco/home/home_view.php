@@ -1086,11 +1086,6 @@
                     <img src="media/assets/img/habitta/portto-blanco/icons/master/lake.svg">
                     <h5>Lago</h5>
                 </div>
-
-                <div class="col s12 m6 l4 center">
-                    <img src="media/assets/img/habitta/portto-blanco/icons/master/hospital.svg">
-                    <h5>Hospital</h5>
-                </div>
                 <div class="col s12 m6 l4 center">
                     <img src="media/assets/img/habitta/portto-blanco/icons/master/horse.svg">
                     <h5>Club Hípico</h5>
