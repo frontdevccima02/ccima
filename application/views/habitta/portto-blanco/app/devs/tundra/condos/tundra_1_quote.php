@@ -269,8 +269,8 @@
         <div class="container">
 
         <svg version="1.1" id="CLUSTER__x2F__ETAPA__x2F__CONDO"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1366 777"
-	 style="enable-background:new 0 0 1366 777;" xml:space="preserve">
+        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1366 777"
+        style="enable-background:new 0 0 1366 777;" xml:space="preserve">
             <style type="text/css">
                 .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#4077AF;}
                 .st1{fill:#FBBD0B;}
@@ -818,7 +818,7 @@
                         </g>
                     </g>
                     <g id="D-53" class="property__active" ng-class="tundra.inmovablesClassList[52]" ng-click="tundra.showPropertyData(68, '53')">
-                        <polygon id="DL-53" class="st0" points="1122.1,118.9 1122.1,0 1190.8,0 1185,118.9 			"/>
+                        <polygon id="DL-53" class="property pb-sprite-1" points="1122.1,118.9 1122.1,0 1190.8,0 1185,118.9 			"/>
                         <text transform="matrix(0 -1.0653 1 0 1131.842 72.3086)"><tspan x="0" y="0" class="st4 st5 st15">1</tspan><tspan x="5.4" y="0" class="st4 st5 st15">6</tspan><tspan x="10.8" y="0" class="st4 st5 st15">.</tspan><tspan x="13.5" y="0" class="st4 st5 st15">0</tspan><tspan x="18.9" y="0" class="st4 st5 st15">0</tspan></text>
                         <text transform="matrix(5.222271e-02 -1.0636 0.9984 5.583001e-02 1185.4426 72.2652)"><tspan x="0" y="0" class="st4 st5 st7">1</tspan><tspan x="5.5" y="0" class="st4 st5 st7">6</tspan><tspan x="10.8" y="0" class="st4 st5 st7">.</tspan><tspan x="13.5" y="0" class="st4 st5 st7">0</tspan><tspan x="19" y="0" class="st4 st5 st7">2</tspan></text>
                         <text transform="matrix(1.0653 0 0 1 1146.3401 9.9785)" class="st4 st5 st15">9.88</text>
@@ -852,7 +852,7 @@
                 </g>
                 <g id="ISLA_E_2_">
                     <g id="E-54" class="property__active" ng-class="tundra.inmovablesClassList[53]" ng-click="tundra.showPropertyData(68, '54')">
-                        <polygon id="EL-54" class="st0" points="1362.7,65.5 1251.6,59.4 1254.5,0 1366,0 			"/>
+                        <polygon id="EL-54" class="property pb-sprite-1" points="1362.7,65.5 1251.6,59.4 1254.5,0 1366,0 			"/>
                         <text transform="matrix(5.222271e-02 -1.0636 0.9984 5.583001e-02 1262.6171 40.0782)"><tspan x="0" y="0" class="st4 st5 st7">8</tspan><tspan x="5.4" y="0" class="st4 st5 st7">.</tspan><tspan x="8" y="0" class="st4 st5 st7">0</tspan><tspan x="13.5" y="0" class="st4 st5 st7">0</tspan></text>
                         <text transform="matrix(5.222271e-02 -1.0636 0.9984 5.583001e-02 1360.1672 42.7572)"><tspan x="0" y="0" class="st4 st5 st7">8</tspan><tspan x="5.4" y="0" class="st4 st5 st7">.</tspan><tspan x="8" y="0" class="st4 st5 st7">8</tspan><tspan x="13.5" y="0" class="st4 st5 st7">4</tspan></text>
                         <text transform="matrix(0.9369 0 0 1 1297.9924 9.9785)"><tspan x="0" y="0" class="st4 st5 st12">1</tspan><tspan x="5.7" y="0" class="st4 st5 st12">6.02</tspan></text>
@@ -872,7 +872,7 @@
                         <text transform="matrix(0.934 5.398861e-02 -5.066977e-02 0.9987 1300.7979 85.6348)" class="st1 st2 st3">55</text>
                     </g>
                     <g id="E-56" class="property__active" ng-class="tundra.inmovablesClassList[55]" ng-click="tundra.showPropertyData(68, '56')">
-                        <polygon id="EL-56" class="st0" points="1356.8,184.2 1245.6,178 1248.6,118.7 1305.2,121.9 1359.8,124.8 			"/>
+                        <polygon id="EL-56" class="property pb-sprite-1" points="1356.8,184.2 1245.6,178 1248.6,118.7 1305.2,121.9 1359.8,124.8 			"/>
                         <text transform="matrix(0.934 5.223818e-02 -4.902986e-02 0.9988 1291.4508 131.3717)"><tspan x="0" y="0" class="st4 st5 st8">1</tspan><tspan x="5.7" y="0" class="st4 st5 st8">6</tspan><tspan x="11.6" y="0" class="st4 st5 st8">.</tspan><tspan x="14.4" y="0" class="st4 st5 st8">0</tspan><tspan x="20.3" y="0" class="st4 st5 st8">0</tspan></text>
                         <text transform="matrix(5.222271e-02 -1.0636 0.9984 5.583001e-02 1256.668 158.7331)"><tspan x="0" y="0" class="st4 st5 st7">8</tspan><tspan x="5.4" y="0" class="st4 st5 st7">.</tspan><tspan x="8" y="0" class="st4 st5 st7">0</tspan><tspan x="13.5" y="0" class="st4 st5 st7">0</tspan></text>
                         <text transform="matrix(5.222271e-02 -1.0636 0.9984 5.583001e-02 1354.2574 164.415)"><tspan x="0" y="0" class="st4 st5 st7">8</tspan><tspan x="5.4" y="0" class="st4 st5 st7">.</tspan><tspan x="8" y="0" class="st4 st5 st7">0</tspan><tspan x="13.4" y="0" class="st4 st5 st7">0</tspan></text>
@@ -1247,7 +1247,7 @@
                     <line class="st23" x1="0" y1="772.3" x2="0" y2="0"/>
                 </g>
             </g>
-            </svg>
+        </svg>
         </div>
     </div>
 </body>
