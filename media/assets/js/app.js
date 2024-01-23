@@ -94,9 +94,16 @@ app.config(function($routeProvider) {
 	/********** Home **********/
 
 	.when('/', {
-		templateUrl: 'application/views/home/home_view.php'
+		templateUrl: 'application/views/home/home_view.php',
+	})
+	.when('/terminos_condiciones', {
+		templateUrl: 'application/views/home/terminos_view.php',
 	})
 
+	.when('/politicas_de_privacidad', {
+		templateUrl: 'application/views/home/politicas_privacidad.php',
+	})
+	
 	/********** Application **********/
 
 	.when('/login', {
@@ -163,8 +170,6 @@ app.config(function($routeProvider) {
 		controllerAs: 'dashboard'
 	})
 	
-
-
 	/***** Users *****/
 
 	.when('/users', {
@@ -183,7 +188,6 @@ app.config(function($routeProvider) {
 		controllerAs: 'dashboard'
 	})
 
-    
 	
 	/***** Developments *****/
 
@@ -421,6 +425,7 @@ app.config(function($routeProvider) {
 		controller: 'PBParamoCtrl',
 		controllerAs: 'paramo'
 	})
+	
 	.when('/Portto_Blanco-Paramo_3-Inventario', {
 		templateUrl: 'application/views/habitta/portto-blanco/app/devs/paramo/condos/paramo_3_inventary.php',
 		controller: 'PBParamoCtrl',
