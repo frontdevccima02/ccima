@@ -33,11 +33,7 @@
             </div>
         </a>
         <md-divider></md-divider>
-        <a href="#!/Portto_Blanco-Lomas" ng-click="close()">
-            <div class="fs__16px futura-light darkgray__text px-16 py-9 ">
-                <span>Lomas Portto Blanco - Querétaro</span>
-            </div>
-        </a>
+
         <md-divider></md-divider>
         
         <div class="blue__bg p-12">

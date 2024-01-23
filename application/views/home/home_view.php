@@ -84,11 +84,11 @@
             </div>
         </a>
         <md-divider></md-divider>
-        <a href="#!/cotizador" ng-click="close()">
+        <!-- <a href="#!/cotizador" ng-click="close()">
             <div class="link-body link-nav">
                 Cotizador
             </div>
-        </a>
+        </a> -->
         <md-divider></md-divider>
         <a href="#!/login" ng-click="close()">
             <div class="link-body link-nav">
